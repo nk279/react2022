@@ -1,0 +1,31 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name": "samsungM30",
+            "color": "red",
+            "price": "13000",
+            "category":"Mobile",
+            "Brand": "samsung",
+            "photo": "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a73/buy/A73_Mint.png"
+        },
+        {
+            "id":2,
+            "name": "samsung Galaxy s22+",
+            "color": "grey",
+            "price": "130000",
+            "category":"Mobile",
+            "Brand": "samsung",
+            "photo": "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a73/buy/A73_Mint.png"
+        },
+        {
+            "id":3,
+            "name": "One Plus 11 plus",
+            "color": "green",
+            "price": "50000",
+            "category":"Mobile",
+            "Brand": "One Plus",
+            "photo": "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a73/buy/A73_Mint.png"
+        }
+    ]
+}
